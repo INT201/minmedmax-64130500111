@@ -69,5 +69,7 @@ function minMedMax(n1, n2, n3) {
 // console.log(minMedMax(5, 1, 1));
 // console.log(minMedMax(-1, -8, 0));
 
+console.log("Hello YoYo")
+
 
 module.exports = minMedMax;
